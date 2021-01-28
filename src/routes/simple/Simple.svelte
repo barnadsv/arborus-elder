@@ -1,5 +1,6 @@
 <script>
-  export let data, helpers;
+  // export let data, helpers;
+  export let data;
 </script>
 
 <style>
